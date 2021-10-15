@@ -1,2 +1,2 @@
-# Gitcoin-Schwag-OM
+# Gitcoin-Schwag
 focus on coordination
